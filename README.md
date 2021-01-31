@@ -16,7 +16,7 @@ Install requirements.txt
 pip install requirements.txt
 ```
 
-## Run Flask App
+### Run Flask App
 
 ```
 python init.py
